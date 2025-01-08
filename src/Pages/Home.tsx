@@ -54,7 +54,7 @@ export const Home = () => {
           <div className="p-8 text-white">
             <h2 className="text-2xl mb-4">Projects</h2>
             <div>
-                hi
+                
             </div>
           </div>
           <div className="p-8 text-white items-center">
